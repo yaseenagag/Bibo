@@ -42,7 +42,7 @@
 			background: -o-linear-gradient(top, rgba(0,0,0,.7) 0%, rgba(255,255,255,0) 25%);
 			background: -ms-linear-gradient(top, rgba(0,0,0,.7) 0%, rgba(255,255,255,0) 25%);
 			background: linear-gradient(to bottom, rgba(0,0,0,.7) 0%, rgba(255,255,255,0) 25%);
-			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#ffffff', GradientType=0 );
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#f9f4f4fff', GradientType=0 );
 		}
 	}
 	.text-shadow {
@@ -872,7 +872,7 @@
 		text-align: center;
 		text-decoration: none!important;
 		span {
-			color: #fff;
+			color: #f9f4f4;
 			display: inline;
 		}
 	}

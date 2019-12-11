@@ -261,7 +261,7 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
 /* Start: Time (Current / Duration) */
 .mejs__time {
     box-sizing: content-box;
-    color: #fff;
+    color: #f9f4f4;
     font-size: 11px;
     font-weight: bold;
     height: 24px;
@@ -483,7 +483,7 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
 }
 
 .mejs__broadcast {
-    color: #fff;
+    color: #f9f4f4;
     height: 10px;
     position: absolute;
     top: 15px;
@@ -655,7 +655,7 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
 
 .mejs__captions-selector-list-item,
 .mejs__chapters-selector-list-item {
-    color: #fff;
+    color: #f9f4f4;
     cursor: pointer;
     display: block;
     list-style-type: none !important;
@@ -701,7 +701,7 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
 
 .mejs__captions-layer {
     bottom: 0;
-    color: #fff;
+    color: #f9f4f4;
     font-size: 16px;
     left: 0;
     line-height: 20px;
@@ -710,7 +710,7 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
 }
 
 .mejs__captions-layer a {
-    color: #fff;
+    color: #f9f4f4;
     text-decoration: underline;
 }
 
@@ -756,7 +756,7 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
 }
 .mejs__cannotplay,
 .mejs__cannotplay a {
-    color: #fff;
+    color: #f9f4f4;
     font-size: 0.8em;
 }
 
