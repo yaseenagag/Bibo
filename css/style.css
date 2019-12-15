@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5,
   border-width: 2px; }
 
 .text-black {
-  color: rgb(7, 7, 7) !important; }
+  color: rgb(255, 255, 255) !important; }
 
 .bg-black {
   background: #000 !important; }
@@ -1526,12 +1526,12 @@ h1, h2, h3, h4, h5,
         padding: 5px;
         color: #f9f4f4; }
   .team-member h3 {
-    color: #000;
+    color: rgb(255, 255, 255);
     margin: 0;
     bottom: 0;
     font-size: 1.4rem; }
   .team-member .position {
-    color: #000; }
+    color: rgb(255, 255, 255); }
   .team-member:hover img {
     -webkit-transform: scale(1.05);
     -ms-transform: scale(1.05);
